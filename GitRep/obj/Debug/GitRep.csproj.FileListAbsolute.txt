@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\GitRep\GitRep\bin\Debug\GitRep.exe.config
+C:\Users\Dell\source\repos\GitRep\GitRep\bin\Debug\GitRep.exe
+C:\Users\Dell\source\repos\GitRep\GitRep\bin\Debug\GitRep.pdb
+C:\Users\Dell\source\repos\GitRep\GitRep\obj\Debug\GitRep.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\GitRep\GitRep\obj\Debug\GitRep.Properties.Resources.resources
+C:\Users\Dell\source\repos\GitRep\GitRep\obj\Debug\GitRep.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\GitRep\GitRep\obj\Debug\GitRep.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\GitRep\GitRep\obj\Debug\GitRep.exe
+C:\Users\Dell\source\repos\GitRep\GitRep\obj\Debug\GitRep.pdb
